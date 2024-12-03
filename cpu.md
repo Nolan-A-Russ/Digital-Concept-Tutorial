@@ -63,14 +63,6 @@ Several factors determine the efficiency and speed of a CPU:
 
 ---
 
-## **Why is the CPU Critical to the PC?**
-The CPU's ability to perform billions of instructions per second (measured in FLOPS for floating-point operations) makes it indispensable for:
-- Running applications and operating systems.
-- Gaming, where processing speed affects frame rates and responsiveness.
-- Data analysis and scientific computations.
-
----
-
 ## **Navigation**
 - [Previous: Introduction to Computer Systems](introduction.md)  
 - [Next: Memory and Storage](memory_and_storage.md)
