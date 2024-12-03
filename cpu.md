@@ -73,4 +73,4 @@ The CPU's ability to perform billions of instructions per second (measured in FL
 
 ## **Navigation**
 - [Previous: Introduction to Computer Systems](introduction.md)  
-- [Next: Memory and Storage](memory_and_storage.md)
+- [Next: Memory and Storage](memoryandstorage.md)
