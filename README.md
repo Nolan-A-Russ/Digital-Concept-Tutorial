@@ -1,6 +1,6 @@
 # Computer System Components Tutorial
 
-**Author**: [Nolan Russ]  
+**Author**: [Nolan A Russ]  
 **Summary**: This tutorial provides an overview of the key components of a computer system, including their purposes and how they work together.  
 **Target Audience**: Beginners in computing, high school students, or anyone new to computer science concepts.
 
